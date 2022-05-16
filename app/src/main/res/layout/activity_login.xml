@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/t"
+    tools:context=".activity.Login">
+
+    <EditText
+        android:id="@+id/U"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Username"
+        android:layout_marginTop="50dp"
+        android:textSize="20dp"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/Pass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/U"
+        android:layout_marginTop="50dp"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/login_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Pass"
+        android:backgroundTint="@color/teal_700"
+        android:text="Login"
+        android:layout_marginTop="60dp"
+        android:textColor="@color/colorPrimary"
+        android:textSize="25dp" />
+    <CheckBox
+        android:id="@+id/remeber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Remember me?"
+        android:textSize="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/login_id"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/reg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/remeber"
+        android:backgroundTint="@color/teal_700"
+        android:text="Register"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/colorPrimary"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/forget"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/reg"
+        android:text="Forget Password?"
+        android:textSize="20dp"
+        android:layout_marginTop="30dp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

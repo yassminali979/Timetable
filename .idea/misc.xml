@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/elnopy/Desktop/Timetable/app/src/main/res/drawable/btn_background.xml" value="0.215625" />
+        <entry key="..\:/Users/elnopy/Desktop/Timetable/app/src/main/res/drawable/btn_border.xml" value="0.215625" />
+        <entry key="..\:/Users/elnopy/Desktop/Timetable/app/src/main/res/drawable/button.xml" value="0.215625" />
+        <entry key="..\:/Users/elnopy/Desktop/Timetable/app/src/main/res/drawable/ic_arrow_back_black_24dp.xml" value="0.215625" />
+        <entry key="..\:/Users/elnopy/Desktop/Timetable/app/src/main/res/layout/activity_alarm.xml" value="0.21" />
+        <entry key="..\:/Users/elnopy/Desktop/Timetable/app/src/main/res/layout/activity_forgetpassword.xml" value="0.25" />
+        <entry key="..\:/Users/elnopy/Desktop/Timetable/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/elnopy/Desktop/Timetable/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/elnopy/Desktop/Timetable/app/src/main/res/layout/activity_reset.xml" value="0.25" />
+        <entry key="..\:/Users/elnopy/Desktop/Timetable/app/src/main/res/layout/activity_start.xml" value="0.18" />
+        <entry key="..\:/Users/elnopy/Desktop/Timetable/app/src/main/res/layout/activity_taskmain.xml" value="0.18" />
+        <entry key="..\:/Users/elnopy/Desktop/Timetable/app/src/main/res/layout/calendar_fargment.xml" value="0.2" />
+        <entry key="..\:/Users/elnopy/Desktop/Timetable/app/src/main/res/layout/dialog_completed_theme.xml" value="0.36960985626283366" />
+        <entry key="..\:/Users/elnopy/Desktop/Timetable/app/src/main/res/layout/fragment_create_task.xml" value="0.21" />
+        <entry key="..\:/Users/elnopy/Desktop/Timetable/app/src/main/res/layout/item_task.xml" value="0.33" />
+        <entry key="..\:/Users/elnopy/Desktop/Timetable/app/src/main/res/layout/task_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/elnopy/Desktop/Timetable/app/src/main/res/menu/menu.xml" value="0.33" />
+        <entry key="..\:/Users/elnopy/Desktop/todo-list-master/app/src/main/res/drawable/btn_border.xml" value="0.2123076923076923" />
+        <entry key="..\:/Users/elnopy/Desktop/todo-list-master/app/src/main/res/drawable/ic_add_black_24dp.xml" value="0.2123076923076923" />
+        <entry key="..\:/Users/elnopy/Desktop/todo-list-master/app/src/main/res/layout/activity_alarm.xml" value="0.33" />
+        <entry key="..\:/Users/elnopy/Desktop/todo-list-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/elnopy/Desktop/todo-list-master/app/src/main/res/layout/fragment_create_task.xml" value="0.25" />
+        <entry key="..\:/Users/elnopy/Desktop/todo-list-master/app/src/main/res/layout/item_task.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
